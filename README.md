@@ -3,6 +3,8 @@
 - *Version : 1.0*
 - *2020*
 
+Contribution : Hamid Kolli <https://github.com/HamidKolli>
+
 Le jeu consiste à récolter des ressources et ensuite construire avec differents batiment et avancer dans le jeu en résistant à plusieurs événements. Il est réalisé en Java
 
 ## Fonctions principals :
