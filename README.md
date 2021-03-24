@@ -17,3 +17,4 @@ Le jeu consiste à récolter des ressources et ensuite construire avec different
 - Le convertir en Mode graphique
 - Ajout de personnages dans le jeu
 - Ajouter plus d'interaction pour l'utilisateur
+- Implimentation d'une IA pour les événements 
